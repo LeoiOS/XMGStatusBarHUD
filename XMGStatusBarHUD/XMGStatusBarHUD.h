@@ -4,9 +4,6 @@
 //
 //  Created by xiaomage on 15/10/27.
 //  Copyright © 2015年 xiaomage. All rights reserved.
-//  1.0.0
-//  2.0.0
-//  3.0.0
 
 #import <UIKit/UIKit.h>
 
@@ -14,7 +11,7 @@
 /**
  *  显示文字信息
  */
-+ (void)showText:(NSString *)text;  // NS_DEPRECATED_IOS(2_0, 2_0, "Use -showSuccess:")
++ (void)showText:(NSString *)text;
 /**
  *  显示图片+文字信息
  */
