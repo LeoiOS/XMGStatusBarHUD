@@ -15,11 +15,6 @@
 
 @implementation ViewController
 
-- (void)viewDidLoad {
-    [super viewDidLoad];
-    
-}
-
 - (IBAction)success {
     [XMGStatusBarHUD showSuccess:@"登录成功!"];
 }

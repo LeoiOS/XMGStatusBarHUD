@@ -14,7 +14,7 @@ static NSTimer *timer_;
 static UIWindow *window_;
 
 /** window出现的逗留时间 */
-static CGFloat const XMGStayDuration = 5;
+static CGFloat const XMGStayDuration = 1.5;
 /** window出现和隐藏的动画时长 */
 static CGFloat const XMGAnimationDuration = 0.25;
 /** 图片和文字之间的间距 */
